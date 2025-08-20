@@ -1,4 +1,4 @@
-package searching;
+package com.searching;
 
 import java.util.Arrays;
 import java.util.Scanner;

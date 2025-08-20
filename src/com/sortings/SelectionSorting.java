@@ -1,4 +1,4 @@
-package sortings;
+package com.sortings;
 
 public class SelectionSorting {
     public static void main(String[] args) {
